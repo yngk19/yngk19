@@ -1,4 +1,4 @@
-![YUSUF](assets/yusuf.jpg)
+![YUSUF](yusuf.jpg)
 ```
 Computer Science
 ```
