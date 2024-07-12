@@ -1,16 +1,11 @@
-Hi, there
-```
-Computer Science
-```
-![](https://komarev.com/ghpvc/?username=yngk19&color=blueviolet&style=for-the-badge&)
+### :raised_hand: Hi there 
 
-
-
-
-
-
-## Contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yngk19)
-***
-## Progress
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yngk19&show_icons=true&theme=radical)
+### Contact with me:
+<div id="badges">
+  <a href="https://vk.com/len4r1k_05">
+    <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="vk"/>
+  </a>
+  <a href="https://t.me/yngk19">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram"/>
+  </a>
+</div>
