@@ -1,6 +1,6 @@
 ### :raised_hand: Hi there 
 
-### Contact with me:
+### Contact me:
 <div id="badges">
   <a href="https://vk.com/len4r1k_05">
     <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="vk"/>
